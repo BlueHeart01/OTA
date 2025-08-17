@@ -1,11 +1,12 @@
-"response": [
-    {
-      "datetime": 1755431179,
-      "filename": "Project_Infinity-X-3.1-redwood-20250817-1127-GAPPS-UNOFFICIAL.zip",
-      "id": "0ccddb42090ed41df4a91ced05a91ca3",
-      "romtype": "UNOFFICIAL",
-      "size": 2209396267,
-      "url": "https://sourceforge.net/projects/o/ot/ota-infinity-x/files/infinityX/A16/Project_Infinity-X-3.1-redwood-20250817-1127-GAPPS-UNOFFICIAL.zip/download",
-      "version": "3.1"
-    }
-]
+{
+        "response": [
+                {
+                        "filename": "Project_Infinity-X-3.1-redwood-20250817-1417-GAPPS-UNOFFICIAL.zip",
+                        "download": "https://sourceforge.net/projects/ota-infinity-x/files/infinityX/A16/Project_Infinity-X-3.1-redwood-20250817-1417-GAPPS-UNOFFICIAL.zip/download",
+                        "timestamp": 1755445447,
+                        "md5": "06a38b4313812951192aff4741d2ecaf",
+                        "size": 2209400149,
+                        "version": "3.1"
+                }
+        ]
+}
